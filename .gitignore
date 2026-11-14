@@ -1,0 +1,19 @@
+## .NET build output
+bin/
+obj/
+TestResults/
+*.trx
+
+## IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+## Local data and secrets
+*.db
+*.db-shm
+*.db-wal
+.env
+appsettings.*.local.json
